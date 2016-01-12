@@ -2,14 +2,36 @@
     <channel>
         <title><![CDATA[rimajibaly]]></title>
         <description><![CDATA[rimajibaly]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rimajibaly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 18:38:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 18:40:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rimajibaly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Before Your Visit]]></title>
+            <description><![CDATA[<h1>Before Your Visit</h1>]]></description>
+            <link>https://thegrid.ai/rimajibaly/before-your-visit/index.html</link>
+            <guid isPermaLink="false">9e47c35c-e8e3-40a1-b2ff-86f7afecab5a</guid>
+            <pubDate>Tue, 12 Jan 2016 18:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visit Information]]></title>
+            <description><![CDATA[<article><h1>Visit Information</h1><p>We see patients in our clinic Monday, Tuesday, and Thursday 9am to 5pm.
+
+Our staff is available to answer questions on daily basis including Wednesday and Friday.
+
+Endoscopic procedures can be scheduled in two different locations depending on your insurance and preference.  
+
+For information about some of the procedures we perform please see Medical Public Resources
+
+We perform and have ongoing clinical and academic research. If interested, contact us and we will attempt to provide more information.</p></article>]]></description>
+            <link>https://thegrid.ai/rimajibaly/visit-information/index.html</link>
+            <guid isPermaLink="false">0edbaf27-6c25-418f-97a6-4ff8861cb833</guid>
+            <pubDate>Tue, 12 Jan 2016 18:40:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e443081-3598-4073-8754-b9a59d4b26d5.jpg">]]></description>
-            <link>undefined1f891692-fa6d-4ace-99f2-effc19b97475/index.html</link>
+            <link>https://thegrid.ai/rimajibaly/1f891692-fa6d-4ace-99f2-effc19b97475/index.html</link>
             <guid isPermaLink="false">1f891692-fa6d-4ace-99f2-effc19b97475</guid>
             <pubDate>Tue, 12 Jan 2016 18:38:09 GMT</pubDate>
         </item>
