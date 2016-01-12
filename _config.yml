@@ -1,0 +1,28 @@
+name: rimajibaly
+favicon: null
+layout_spectrum: 0.7283183427061886
+typography_spectrum: 0.6996598104014993
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8343559282366186
+  lightness: 0.2833379372023046
+  saturation: 0.4339333039242774
+  rhythmicContrast: 0.2717262143269181
+purpose: []
